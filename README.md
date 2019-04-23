@@ -1,5 +1,7 @@
 # Title
 
+https://help.learn.co/technical-support/local-environment/mac-osx-manual-environment-set-up
+
 ## Learning Goals
 
 - SWBAT 1
